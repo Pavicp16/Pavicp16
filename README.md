@@ -7,5 +7,5 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chandhucp](https://github.com/Pavicp16)
+- 👨‍💻 All of my projects are available at [https://github.com/Pavicp16](https://github.com/Pavicp16)
 
